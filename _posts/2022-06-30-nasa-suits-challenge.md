@@ -4,7 +4,7 @@ description: An AR application that helps astronauts in extravehicular activitie
 author: Evan
 date: 2022-06-30 12:00:00 +0800
 categories: [Projects, AR]
-tags: [ar, augmented reality, hololens]
+tags: [ar, augmented reality, hololens, unity]
 pin: true
 image:
   path: /pictures/Astrohuskies-Logo-Text-1-Color.png
