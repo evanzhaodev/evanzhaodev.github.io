@@ -39,5 +39,5 @@ Based on comprehensive user testing, we made several refinements:
 
 These enhancements ensure that users have a more intuitive and secure experience while interacting in the VR environment, addressing both functional requirements and user comfort.
 
-![Desktop View](/pictures/socialvr-0.jpg)
-![Desktop View](/pictures/socialvr-1.jpg)
+![Desktop View](/assets/img/socialvr-0.jpg)
+![Desktop View](/assets/img/socialvr-1.jpg)
