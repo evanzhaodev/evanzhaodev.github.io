@@ -20,7 +20,7 @@ For this project, team Astrohuskies designed an AR application for the Microsoft
 # Work
 As a team lead of Astrohuskies, we created an augmented reality guided EVA application to provide NASA with innovative interfaces, interaction systems, and novel computer vision methodologies for future extraterrestrial missions. Our application assists astronauts working on the lunar and Martian surfaces with a range of functionalities—from task tracking and procedure guidance to geologic analysis and dynamic navigation. We utilized a variety of interaction techniques such as eye tracking, gesture recognition, and voice commands to create intuitive interfaces that can be used regardless of the physical limitations of the astronaut. Our interfaces were designed with a priority-based window manager that only displays the most actionable information, thus minimizing the overall cognitive load. We leveraged cutting-edge computer vision algorithms for simultaneous localization and mapping (SLAM) and real-time object detection to aid astronauts during EVA tasks, such as navigation in unfamiliar areas and identifying regions of unique geology for spectrometer scanning.
 
-![Desktop View](/assets/img/nasa-suits-1.jpg)
+![Desktop View](/assets/img/nasa-suits-1.png)
 
 For prototyping and evaluating our application, we targeted the latest version of the Mixed Reality Toolkit for the HoloLens 2 on the Unity 3D engine. Our team prepared a multi-phase testing plan to assess the utility and efficacy of our application throughout the development process. We brought in participants from a variety of academic disciplines and created both indoor and outdoor testing environments.
 
